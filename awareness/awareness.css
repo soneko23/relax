@@ -1,0 +1,44 @@
+#myVideo {
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: -1;
+}
+#timer {
+    display: flex;
+    justify-content: center;
+}
+#myButton {
+    display: none;
+}
+#countdown {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 60px;
+    width: 250px;
+    height: 150px;
+    border-radius: 25px;
+    cursor: pointer;
+    color: white;
+    background: #238055;
+    box-shadow: inset 23px 23px 16px #154c32,
+                inset -23px -23px 16px #31b478;
+}
+
+@media all and (max-width: 500px) {
+    #myButton {
+        display: block;
+        margin: auto;
+        background: rgba(255, 255, 255, 0.16);
+        border-radius: 16px;
+        border: none;
+        cursor: pointer;
+        box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+        backdrop-filter: blur(3.7px);
+        -webkit-backdrop-filter: blur(3.7px);
+        padding: 40px 60px;
+        font-size: 30px;
+        color: #238055;
+    }
+}
