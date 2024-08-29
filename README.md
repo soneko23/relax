@@ -1,6 +1,8 @@
 # Relax time for you
 This app for your relax
 
+https://oh-relaxation.netlify.app/
+
 ## Mindfulness music
 
 ## Dynamic mood
