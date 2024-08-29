@@ -1,7 +1,7 @@
 # Relax time for you
 This app for your relax
 
-This data here: [(https://oh-relaxation.netlify.app)] (https://oh-relaxation.netlify.app)
+This data here: https://oh-relaxation.netlify.app
 
 ## Mindfulness music
 
